@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Lucene index (generated at runtime)
+index/
+lucene-index/
+
+# OS files
+.DS_Store
+Thumbs.db

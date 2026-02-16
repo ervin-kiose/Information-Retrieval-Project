@@ -18,18 +18,6 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.document.Document;
-//import org.apache.lucene.analysis.synonym.SynonymMap;
-//import org.apache.lucene.analysis.synonym.WordnetSynonymParser;
-//import org.apache.lucene.analysis.synonym.SynonymGraphFilter;
-//import org.apache.lucene.analysis.AnalyzerWrapper;
-//import org.apache.lucene.analysis.util.CharArraySet;
-//import org.apache.lucene.analysis.Analyzer.TokenStreamComponents;
-
-
-//import java.nio.charset.StandardCharsets;
-//import java.nio.file.Path;
-//import java.nio.file.Files;
-//import java.io.Reader;
 import java.nio.file.Paths;
 
 import java.util.Scanner;
